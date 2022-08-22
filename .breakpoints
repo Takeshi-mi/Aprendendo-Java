@@ -1,3 +1,18 @@
 {
-  "files": {}
+  "files": {
+    "Condicionais.java": [
+      {
+        "id": "9cac2caa-19f0-4442-983a-7101161a8e76",
+        "line": 11,
+        "version": 1230,
+        "index": 289
+      },
+      {
+        "id": "ac90dc8a-3d56-4e61-b53a-5ae6ac3c32fe",
+        "line": 41,
+        "version": 1230,
+        "index": 1329
+      }
+    ]
+  }
 }
